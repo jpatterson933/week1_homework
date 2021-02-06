@@ -18,3 +18,5 @@ I ran into the problem when I did my final push, my github webpage was displayin
 I would like to know a bit more about file structure and pushing in general. Perhaps file strcuture overview. Basically, I does it matter where my html files are, or style file is? I was a bit confused. Can html docs be in folders and still display on the website correctly or does it have to be outside of any single repository/folder?
 
 Submitted 2.6.2021 11AM
+
+Link to Webpage hosted on Jeff Patterson's repository: https://jpatterson933.github.io/week1_homework/
